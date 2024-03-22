@@ -11,8 +11,8 @@
 
 <br>
 
-👨‍💻 Passionate Front-End Developer
-📑 Currently in process of learning ReactJS
+👨‍💻 Passionate Front-End Developer <br><br>
+📑 Currently in process of learning ReactJS <br><br>
 🎓 Software and Data Engineering Student
 
 <br>
